@@ -19,7 +19,7 @@ Follow these steps to set up the application:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/quotes-app.git
+    git clone https://github.com/accompso-ltd/Mr-West.git
     cd quotes-app
     ```
 
